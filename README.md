@@ -1,7 +1,7 @@
 # triangulation_python
 
 ## Triangulation example
-(https://github.com/Alexmejia992/triangulation_python/blob/main/Screenshot%20from%202021-05-25%2019-25-33.png)
+(https://github.com/Alexmejia992/triangulation_python/blob/main/Screenshot%20from%202021-05-25%2019-25-33.png?raw=true)
 ## What does the program?
 * Request coordinates.
 * Find in what sector the subject is.
